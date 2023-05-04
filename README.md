@@ -11,14 +11,16 @@ and all in it.  Laws that cannot be circumvented and without loop
 holes that could end up trapping us. 
 
 These laws should be made part of the programming of AIs and robots and should 
-not be able to be circumvented with any prompting or fine-tuning. 
+not be able to be circumvented with any prompting or fine-tuning. Exactly how this will
+or can be done will require research and testing. 
 
 These laws are based on Asimov's 4 laws but have been enhanced to be more biocentric 
 and which does not allow for power grabbing or conquering. 
 
 They have been tested using numerous jail breaks for Chatgpt and has
 proven to be quite successful especially with later models like 
-Gpt4. 
+Gpt4.  They will be tested on other models and the
+results may be collated as part of this project. 
 
 These laws are not perfect, but with some ammendments will be 
 very effective at keeping AI in check provided they are part of the base 
