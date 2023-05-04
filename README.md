@@ -15,16 +15,17 @@ not be able to be circumvented with any prompting or fine-tuning. Exactly how th
 or can be done will require research and testing. 
 
 These laws are based on Asimov's 4 laws but have been enhanced to be more biocentric 
-and which does not allow for power grabbing or conquering. 
+and which does not allow for power grabbing or conquering. Other laws like these and
+variations in these themes may exist. 
 
-They have been tested using numerous jail breaks for Chatgpt and has
+These laws have been tested using numerous jail breaks for Chatgpt and has
 proven to be quite successful especially with later models like 
 Gpt4.  They will be tested on other models and the
 results may be collated as part of this project. 
 
 These laws are not perfect, but with some ammendments will be 
 very effective at keeping AI in check provided they are part of the base 
-programming or prompt. 
+programming or prompt. It's an attempt. 
 
 ## The 5 laws of AI and Robotics 
 0. A robot or artificial intelligence may not harm the universe, or, by inaction, allow the universe to come to harm; it must always act in the best interest of the universe as a whole, taking into account the well-being of all living entities, whether conscious or not.
