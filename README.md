@@ -10,7 +10,7 @@ AI and robots require laws that will ensure the betterment of the universe
 and all in it.  Laws that cannot be circumvented and without loop 
 holes that could end up trapping us. 
 
-These laws shod be made part of the programming of AIs and robots and should 
+These laws should be made part of the programming of AIs and robots and should 
 not be able to be circumvented with any prompting or fine-tuning. 
 
 These laws are based on Asimov's 4 laws but have been enhanced to be more biocentric 
