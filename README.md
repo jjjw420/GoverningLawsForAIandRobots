@@ -1,4 +1,4 @@
-# GoverningLawsForAIandRobots
+# Governing Laws For AI and Robotics 
 
 ## Introduction 
 It's clear that AI and robots will be smarter than all humans together. 
